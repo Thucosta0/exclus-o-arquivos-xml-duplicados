@@ -21,8 +21,8 @@ Este aplicativo foi desenvolvido para auxiliar na identificação e exclusão de
 
 1. Clone o repositório:
    ```sh
-   git clone <URL_DO_REPOSITÓRIO>
-   cd <NOME_DO_DIRETÓRIO>
+   git clone https://github.com/Thucosta0/exclus-o-arquivos-xml-duplicados.git
+   cd exclus-o-arquivos-xml-duplicados
    ```
 
 2. Instale as dependências:
@@ -77,4 +77,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para 
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato através do e-mail: [seu-email@exemplo.com](mailto:seu-email@exemplo.com). 
+Para dúvidas ou sugestões, entre em contato através do e-mail: [arthur.bleck@einstein.br](mailto:arthur.bleck@einstein.br). 
