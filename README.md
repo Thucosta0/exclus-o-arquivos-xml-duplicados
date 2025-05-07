@@ -21,7 +21,7 @@ Este aplicativo foi desenvolvido para auxiliar na identificação e exclusão de
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/Thucosta0/exclusao-arquivos-xml-duplicados.git
+   git clone https://github.com/Thucosta/exclusao-arquivos-xml-duplicados.git
    cd exclusao-arquivos-xml-duplicados
    ```
 
